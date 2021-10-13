@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: url("../img/leaves-6682006_960_720.webp") center/cover no-repeat;
+   
+}
+
+div{
+    max-width: 400px;
+    margin:60px auto;
+
+}
+div img{
+    height:300px;
+    width:300px;
+    object-fit: cover;
+
+}
